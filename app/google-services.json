@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176046092606",
+    "firebase_url": "https://absenom-ebdd1.firebaseio.com",
+    "project_id": "absenom-ebdd1",
+    "storage_bucket": "absenom-ebdd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176046092606:android:3e792b62c9b56f007dfc6f",
+        "android_client_info": {
+          "package_name": "com.example.myabsenom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176046092606-ukn87pumtu8u3g7jef2gt6d7vjt2a82u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myabsenom",
+            "certificate_hash": "3be1cf78e6940534393f2dd43a1f1a1cb9a7234f"
+          }
+        },
+        {
+          "client_id": "176046092606-ug41jl2a1s5nkp6e8rq7r2nob2d33gd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpZDFJLYh48pcWIO8rJ2S-RfnDl-MXe3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176046092606-ug41jl2a1s5nkp6e8rq7r2nob2d33gd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
